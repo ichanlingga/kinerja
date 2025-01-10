@@ -1,0 +1,2 @@
+1. mengimput nilai
+2. jika ini maka hasilnya gitu
